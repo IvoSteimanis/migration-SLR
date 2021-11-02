@@ -16,7 +16,7 @@ Climate change is projected to increase the number of extreme weather events, wh
 # Steps to replicate the tables and figures 
 ## General information:
 - Instructions for replication of the results using Stata. All do-files were created in Stata 16.
-- There are 4 folders (DO-FILES, DTA-FILES, OUTPUT, XLS-FILES), in the replication package. Copy these folders to your computer in a common directory
+- There are 4 subfolders (DO-FILES, DTA-FILES, OUTPUT, XLS-FILES) in the replication_package folders. Copy these folders to your local computers and continue with the next step.
 
 ## Do-files:
 - In the DO-FILES folder run the __“00_master.do”__ to replicate the results reported in the main manuscript and the supplementary materials. The results will be saved in the OUTPUT folder. All additional Stata packages will be automatically installed.

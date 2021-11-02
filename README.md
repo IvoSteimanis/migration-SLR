@@ -15,17 +15,17 @@ Climate change is projected to increase the number of extreme weather events, wh
 
 ## Steps to replicate the tables and figures 
 # General information:
-‒	Instructions for replication of the results using Stata. All do-files were created in Stata 16.
-‒	There are 4 folders (DO-FILES, DTA-FILES, OUTPUT, XLS-FILES), in the replication package. Copy these folders to your computer in a common directory
+- Instructions for replication of the results using Stata. All do-files were created in Stata 16.
+- There are 4 folders (DO-FILES, DTA-FILES, OUTPUT, XLS-FILES), in the replication package. Copy these folders to your computer in a common directory
 
 # Do-files:
-‒	In the DO-FILES folder run the __“00_master.do”__ to replicate the results reported in the main manuscript and the supplementary materials. The results will be saved in the OUTPUT folder. All additional Stata packages will be automatically installed.
-‒	__“01_merge_generate.do”__ merges the different datasets and creates additional variables using in the analysis
-‒	__“02_analysis.do”__ provides the code to replicate all figures and tables reported in the main manuscript and supplementary materials
+- In the DO-FILES folder run the __“00_master.do”__ to replicate the results reported in the main manuscript and the supplementary materials. The results will be saved in the OUTPUT folder. All additional Stata packages will be automatically installed.
+- __“01_merge_generate.do”__ merges the different datasets and creates additional variables using in the analysis
+- __“02_analysis.do”__ provides the code to replicate all figures and tables reported in the main manuscript and supplementary materials
 
 # Data sets:
-‒	“bd_combine.dta”: cleaned survey data from Bangladesh
-‒	“vn_combine.dta”: cleaned survey data from Vietnam
-‒	“data_analysis.dta”: main data set with the survey data from Bangladesh and Vietnam merged
+-	“bd_combine.dta”: cleaned survey data from Bangladesh
+-	“vn_combine.dta”: cleaned survey data from Vietnam
+- “data_analysis.dta”: main data set with the survey data from Bangladesh and Vietnam merged
 
 

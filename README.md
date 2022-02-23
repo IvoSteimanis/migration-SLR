@@ -1,5 +1,5 @@
 # Why do people persist in sea-level rise threatened coastal regions? Empirical evidence on risk aversion and place attachment
-This repository provides the data and analysis files to reproduce the results of the paper "Why do people persist in sea-level rise threatened coastal regions? Empirical evidence on risk aversion and place attachment" published in ([Climate Risk Management](https://www.sciencedirect.com/science/article/pii/S2212096321001066).
+This repository provides the data and analysis files to reproduce the results of the paper "Why do people persist in sea-level rise threatened coastal regions? Empirical evidence on risk aversion and place attachment" published in [Climate Risk Management](https://www.sciencedirect.com/science/article/pii/S2212096321001066).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5638671.svg)](https://doi.org/10.5281/zenodo.5638671)
 
